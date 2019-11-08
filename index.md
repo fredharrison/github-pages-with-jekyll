@@ -1,3 +1,11 @@
-# Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+
+gem install bundler jekyll
+
+jekyll new my-awesome-site
+
+cd my-awesome-site
+
+bundle exec jekyll serve
+
+# => Now browse to http://localhost:4000 
